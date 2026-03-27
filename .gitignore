@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+*.csv
+*.xlsx
+.ipynb_checkpoints/
